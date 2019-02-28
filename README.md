@@ -1,4 +1,4 @@
-# akihabara.dev
+# nihonbashi.dev
 
 ## Project setup
 ```

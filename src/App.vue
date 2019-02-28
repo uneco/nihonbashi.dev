@@ -1,6 +1,6 @@
 <template lang="pug">
 #app
-  h1 AKIHABARA.DEV
+  h1 NIHONBASHI.DEV
   p
     a(:href='tweet', target='_blank')
       .image
