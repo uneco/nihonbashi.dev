@@ -1,6 +1,6 @@
 <template lang="pug">
 #app
-  h1 Web Service Jam
+  h1 AKIHABARA.DEV
   p
     a(:href='tweet', target='_blank')
       .image
@@ -13,7 +13,7 @@ import { Component, Vue } from 'vue-property-decorator'
 
 @Component({})
 export default class App extends Vue {
-  public tweet = 'https://twitter.com/unecochan/status/1086109472274055169'
+  public tweet = 'https://twitter.com/unecochan/status/1101164940163833857'
 }
 </script>
 

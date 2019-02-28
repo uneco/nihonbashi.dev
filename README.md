@@ -1,4 +1,4 @@
-# webservicejam
+# akihabara.dev
 
 ## Project setup
 ```
